@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "HTTP 코드"
-date: 2022-06-29 00:00:00 -0000
+date: 2022-06-29
+last_modified_date: 2022-06-29
 ---
 
 # HTTP 코드

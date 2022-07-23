@@ -3,8 +3,8 @@ layout: default
 title: 프론트엔드
 parent: 자료모음
 nav_order: 99
-date: 2022-01-12 00:00:00 -0700
-last_modified_date: 2022-01-12 00:00:00 -0700
+date: 2022-01-12
+last_modified_date: 2022-01-12
 ---
 
 # 프론트엔드
